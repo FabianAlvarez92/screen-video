@@ -17,7 +17,7 @@
   </style>
 </head>
 <body>
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1266706138997660"
+  <iframe src="https://drive.google.com/file/d/1jBiZT9bRYRA667DGV2RY9lA8_T5K0t1v/view?usp=drive_link"
           frameborder="0"
           scrolling="no"
           allowfullscreen></iframe>
